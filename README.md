@@ -80,13 +80,13 @@ To reduce RAM consumption and accelerate computation, numerical columns across a
 ## Repository Structure
 
 ```text
-├── data/
-│   ├── raw/                   # Original Sales, Customers, and Products CSV files
-│   └── processed/             # Cleaned and memory-optimized datasets
+├── datasets/
+│   ├── customers.csv
+│   ├── products.csv
+│   └── sales.csv
 ├── notebooks/
-│   └── eda_and_cleaning.ipynb # Main notebook containing preprocessing & visual analysis
-├── README.md                  # Project documentation and summary of findings
-└── requirements.txt           # Required Python dependencies
+│   └── ecommerce_eda.ipynb
+├── README.md
 ```
 
 ---
