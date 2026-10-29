@@ -1,4 +1,4 @@
-# Retail E-Commerce Data Analysis & Preprocessing
+# Retail E-Commerce-DataAnalysis & Preprocessing
 
 ## Project Overview
 This project performs end-to-end data cleaning, memory optimization, and exploratory data analysis (EDA) across three relational retail e-commerce datasets: **Sales**, **Customers**, and **Products**. The primary objective is to streamline the relational schema, optimize memory footprints for large-scale transaction records, and uncover actionable insights across customer demographics, purchasing behavior, catalog pricing, fulfillment performance, and temporal demand patterns.
